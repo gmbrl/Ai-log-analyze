@@ -70,6 +70,6 @@ dependencies and runs the analyzer.
 
 ## Author
 
-Edwin Jonathan Chibuike  
+Chege Mwaura  
 DevOps & Cloud Engineering  
-GitHub: edwinjonathanchibuike123-sys.
+GitHub: gmbrl.
